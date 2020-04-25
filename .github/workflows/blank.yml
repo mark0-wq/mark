@@ -1,8 +1,8 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: mark
 
-# Controls when the action will run. Triggers the workflow on push or pull request
+# spacebutton,shift,f9. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
   push:
